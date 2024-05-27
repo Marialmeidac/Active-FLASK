@@ -1,0 +1,30 @@
+#FRAMEWORK FLASK windows / activate.bat 
+#prompt de comando:
+
+C:\Users\pasta_local>cd \
+
+C:\>md conteudo_um
+
+C:\>cd conteudo_um
+
+C:\conteudo_um>md project_name
+
+C:\conteudo_um>cd project_name
+
+C:\conteudo_um\project_name>md teste1
+
+C:\conteudo_um\project_name>cd teste1
+
+C:\conteudo_um\project_name\teste1>python -m venv .\venv
+
+C:\conteudo_um\project_name>teste1>dir
+
+# "O volume na udidade ** é ****-****"
+# "O numero de série do volume é ****-****"
+# Localização da pasta
+
+#_ATIVANDO_FLASK:
+C:\conteudo_um\project_name\teste1>venv\Scripts\activate.bat
+
+#_DESATIVANDO_FLASK:
+C:\conteudo_um\project_name\teste1\Scripts\deactivate.bat
